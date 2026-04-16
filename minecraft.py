@@ -3,8 +3,6 @@ from art import tprint
 tprint("hahaha", "modular")
 tprint("v.0", "modular")
 
-
-
 from mcrcon import MCRcon
 import random as r
 
